@@ -6,6 +6,8 @@
 - docker compose up --build
 - execute db seeder 
 
+### API Docs (Swagger)
+- http://localhost:8000/docs
 
 ## Frontend
 - cd frontend
